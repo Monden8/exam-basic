@@ -1,0 +1,13 @@
+How can you generate a random number?
+ 
+ With Math.random() -- it generates a number from 0 to 1(not including 1 itself)
+ To generate bigger number just multiple it Math.random*x
+ To make natural number use Math.floor() 
+
+What is a ternary operator? How does it work?
+
+It's an alternative for IF statements.
+It works like (something ? '123' : '456')
+-if something is true it gives back"returns" 123
+-if something is flas it gives back"returns" 456
+// can be chained just like IF
